@@ -1,6 +1,6 @@
 # Google Gen AI Leader Certification
 
-[https://services.google.com/fh/files/misc/generative_ai_leader_exam_guide_english.pdf](https://services.google.com/fh/files/misc/generative_ai_leader_exam_guide_english.pdf)
+[Study Guide](https://services.google.com/fh/files/misc/generative_ai_leader_exam_guide_english.pdf)
 
 **AI is a computer system**, that can perform tasks that otherwise require human intelligence. (simulate)
 
@@ -278,3 +278,7 @@ Agent garden -  is a curated library with google clouds enterprise agent platfor
 Agent 2 Agent (A2A) - open protocol securely communication from one agent to another, similar to MCP by anthropic. 
 
 MCP - external systems talking to agent
+
+## Helpful Resources
+
+[Google Cloud Skills Boost - Intro to Gen AI](https://www.cloudskillsboost.google/paths/118)
